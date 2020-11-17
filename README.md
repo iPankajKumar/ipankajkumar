@@ -18,7 +18,7 @@
 I am a passionate software engineer with over 4+ years of experience in insurance, shippping & logistics domain. I have worked across all phases of Software Development Life Cycle. I’m a strong engineering professional with a Bachelor’s degree focused in Information Technology from University of Pune, India. I have worked with a range of different languages, frameworks, databases and I am always looking for opportunities to work with something new.
 <!--and my [Medium](https://medium.com/@math3mantic) account.-->
 
-### Personal Octocat! 🐱 <img align="right" alt="MyOctocat" height =" 250px" width="250px" src="https://github.com/ipankajsingh/ipankajsingh/blob/master/octocat.svg" />
+### Personal Octocat! 🐱 <img align="right" alt="MyOctocat" height =" 240px" width="240px" src="https://github.com/ipankajsingh/ipankajsingh/blob/master/octocat.svg" />
 
 I hope you liked my Octocat. You can create yours [@ myoctocat.com](https://myoctocat.com/).
 
