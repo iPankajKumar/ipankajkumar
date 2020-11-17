@@ -8,7 +8,8 @@
   <img align="left" alt="Salih | Twitter" width="27px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" />
 </a>
 
-  ![](https://gpvc.arturio.dev/ipankajsingh)
+  ![Profile visits](https://gpvc.arturio.dev/ipankajsingh)
+  ![Years Badge](https://badges.pufler.dev/years/ipankajsingh?label=Years+on+Github)
   
 <br />
 <br />
