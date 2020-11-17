@@ -12,7 +12,7 @@
   ![Years Badge](https://badges.pufler.dev/years/ipankajsingh?label=Years+on+Github)
   ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
   ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)
+ 
   
 <br />
 <br />
