@@ -7,9 +7,9 @@
 <a href="https://twitter.com/isinghpankaj">
   <img align="left" alt="Salih | Twitter" width="27px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" />
 </a>
-<a>
+
   ![View Count](https://gpvc.arturio.dev/ipankajsingh)
-  </a>
+  
 
 
 <br />
@@ -40,5 +40,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ipankajsingh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" width="62%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajsingh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ipankajsingh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" width="60%">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajsingh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" width="40%">
