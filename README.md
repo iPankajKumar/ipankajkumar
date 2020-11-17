@@ -10,6 +10,7 @@
 
   ![Profile visits](https://gpvc.arturio.dev/ipankajsingh)
   ![Years Badge](https://badges.pufler.dev/years/ipankajsingh?label=Years+on+Github)
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
   
 <br />
 <br />
