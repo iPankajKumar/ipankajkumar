@@ -42,5 +42,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ipankajsingh&show_icons=true&theme=dark" alt="Stats" width="60%">
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajsingh&theme=dark&layout=compact"  width="35%">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajsingh&theme=dark&layout=compact"  width="35%">
 
