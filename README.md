@@ -8,12 +8,8 @@
   <img align="left" alt="Salih | Twitter" width="27px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" />
 </a>
 
-  ![View Count](https://gpvc.arturio.dev/ipankajsingh)
-  ![](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fipankajsingh.com&title=Blog)
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fipankajsingh.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Blog+visit+counter&edge_flat=false)
+  ![](https://gpvc.arturio.dev/ipankajsingh)
   
-
-
 <br />
 <br />
 
