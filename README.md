@@ -36,6 +36,12 @@ I am a passionate software engineer with over 4+ years of experience in insuranc
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="Linux"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ipankajsingh&show_icons=true&theme=dark" alt="Stats" width="60%">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajsingh&theme=dark&layout=compact"  width="35%">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ipankajsingh&show_icons=true&theme=dark" alt="Stats" width="60%"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajsingh&theme=dark&layout=compact"  width="35%"/>
+<br>
+
+<br>
+
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ipankajsingh&repo=ipankajsingh.github.io&theme=dark" width="35%"/>
 
