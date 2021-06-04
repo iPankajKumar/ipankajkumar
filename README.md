@@ -9,9 +9,9 @@
 </a>
 
   ![Profile visits](https://gpvc.arturio.dev/ipankajsingh) 
-  ![Years Badge](https://badges.pufler.dev/years/ipankajsingh?label=Years+on+Github) 
-  ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) 
-  ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github?style=for-the-badge&logo=appveyor)
+  ![Years Badge](https://badges.pufler.dev/years/ipankajsingh?label=Years+on+Github?style=for-the-badge&logo=appveyor) 
+  ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=appveyor) 
+  ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
  
   
 <br />
