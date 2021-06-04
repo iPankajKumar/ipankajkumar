@@ -44,5 +44,5 @@ I am a passionate software engineer with over 4+ years of experience in insuranc
 <br>
 
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ipankajsingh&repo=ipankajsingh.github.io&theme=dark" width="35%"/>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ipankajsingh&repo=ipankajsingh.github.io&theme=dark" width="35%"/> -->
 
