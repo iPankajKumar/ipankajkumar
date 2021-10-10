@@ -1,4 +1,4 @@
-# Hey! 🙋‍♂️ I'm [Pankaj](https://ipankajsingh.com/) & I ❤ Open source !
+# Hey! 🙋‍♂️ I'm [Pankaj](https://pankajkumar.xyz/) & I ❤ Open source !
 <!--
 <a href="https://github.com/ipankajsingh">
   <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
