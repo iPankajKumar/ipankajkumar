@@ -8,11 +8,11 @@
   <img align="left" alt="Salih | Twitter" width="27px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" />
 </a>
 -->
-  ![Profile visits](https://gpvc.arturio.dev/ipankajkumar?&style=flat-square) 
+ <!-- ![Profile visits](https://gpvc.arturio.dev/ipankajkumar?&style=flat-square) -->
   ![Years Badge](https://badges.pufler.dev/years/ipankajkumar?style=for-the-badge&logo=appveyor&label=Years+on+Github&color=blue) 
   ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=appveyor) 
 ![Commits Badge](https://badges.pufler.dev/commits/all/ipankajkumar?style=for-the-badge&logo=appveyor&label=Total+Commits&color=blue)
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github&style=for-the-badge)
+<!-- ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github&style=for-the-badge) -->
  
   
 <br />
